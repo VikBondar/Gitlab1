@@ -1,0 +1,7 @@
+﻿@model PosudaShop.Models.ViewModels.Cart.CartVM
+
+<div class="ajaxcart" style="color:white;">
+    Корзина: @Model.Quantity шт. - $@Model.Price
+    <br />
+    @Html.ActionLink("Подробнее", "Index")
+</div>

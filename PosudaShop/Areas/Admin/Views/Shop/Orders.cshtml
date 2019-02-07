@@ -1,0 +1,62 @@
+﻿@model IEnumerable<PosudaShop.Areas.Admin.Models.ViewModels.Shop.OrdersForAdminVM>
+
+@{
+    ViewBag.Title = "Заказы";
+}
+
+@using PagedList.Mvc;
+@using PagedList;
+
+<h2>Заказы</h2>
+
+@if (! Model.Any())
+{
+    <h3 class="text-center">There are no orders.</h3>
+}
+else
+{
+    <table class="table">
+        <tr>
+            <th>
+                Номер заказа
+            </th>
+            <th>
+                Username
+            </th>
+            <th>
+                Детали заказа
+            </th>
+            
+            <th>
+                Дата
+            </th>
+            <th>
+                Сумма
+            </th>
+        </tr>
+
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Username)
+            </td>
+            <td>
+                @foreach (var item2 in item.ProductsAndQty)
+                {
+                    @item2.Key @:x @item2.Value <br />
+                }
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedAt)
+            </td>
+            <td>
+                $@Html.DisplayFor(modelItem => item.Total)
+            </td>
+        </tr>
+    }
+
+    </table>
+}

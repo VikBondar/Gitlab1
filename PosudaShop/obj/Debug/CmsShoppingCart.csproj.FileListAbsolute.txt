@@ -1,0 +1,148 @@
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\roslyn\csc.exe
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\roslyn\System.Collections.Immutable.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\roslyn\vbc.exe
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\roslyn\VBCSCompiler.exe
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\roslyn\VBCSCompiler.exe.config
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\CmsShoppingCart.dll.config
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\CmsShoppingCart.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\CmsShoppingCart.pdb
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\Antlr3.Runtime.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\Microsoft.Web.Infrastructure.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\Newtonsoft.Json.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\System.Web.Helpers.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\System.Web.Mvc.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\System.Web.Optimization.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\System.Web.Razor.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\System.Web.WebPages.Deployment.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\System.Web.WebPages.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\System.Web.WebPages.Razor.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\WebGrease.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\System.Web.Helpers.xml
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\System.Web.Mvc.xml
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\System.Web.Optimization.xml
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\System.Web.Razor.xml
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\System.Web.WebPages.xml
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\System.Web.WebPages.Deployment.xml
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\System.Web.WebPages.Razor.xml
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\Antlr3.Runtime.pdb
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\Newtonsoft.Json.xml
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\obj\Debug\CmsShoppingCart.csprojResolveAssemblyReference.cache
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\obj\Debug\CmsShoppingCart.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\obj\Debug\CmsShoppingCart.pdb
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\EntityFramework.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\EntityFramework.SqlServer.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\EntityFramework.xml
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\EntityFramework.SqlServer.xml
+C:\Users\Voja\Documents\Visual Studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\PagedList.dll
+C:\Users\Voja\Documents\Visual Studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\PagedList.Mvc.dll
+C:\Users\Voja\Documents\Visual Studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\PagedList.xml
+C:\Users\Voja\Documents\Visual Studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\PagedList.Mvc.xml
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\roslyn\csc.exe
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\roslyn\System.Collections.Immutable.dll
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\roslyn\System.Reflection.Metadata.dll
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\roslyn\vbc.exe
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\roslyn\VBCSCompiler.exe
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\roslyn\VBCSCompiler.exe.config
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\CmsShoppingCart.dll.config
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\CmsShoppingCart.dll
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\CmsShoppingCart.pdb
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\Antlr3.Runtime.dll
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\EntityFramework.dll
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\EntityFramework.SqlServer.dll
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\Microsoft.Web.Infrastructure.dll
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\Newtonsoft.Json.dll
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\PagedList.dll
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\PagedList.Mvc.dll
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\System.Web.Helpers.dll
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\System.Web.Mvc.dll
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\System.Web.Optimization.dll
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\System.Web.Razor.dll
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\System.Web.WebPages.Deployment.dll
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\System.Web.WebPages.dll
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\System.Web.WebPages.Razor.dll
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\WebGrease.dll
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\EntityFramework.xml
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\EntityFramework.SqlServer.xml
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\PagedList.xml
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\PagedList.Mvc.xml
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\System.Web.Helpers.xml
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\System.Web.Mvc.xml
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\System.Web.Optimization.xml
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\System.Web.Razor.xml
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\System.Web.WebPages.xml
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\System.Web.WebPages.Deployment.xml
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\System.Web.WebPages.Razor.xml
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\Antlr3.Runtime.pdb
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\Newtonsoft.Json.xml
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\obj\Debug\CmsShoppingCart.csprojAssemblyReference.cache
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\obj\Debug\CmsShoppingCart.csproj.CoreCompileInputs.cache
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\obj\Debug\CmsShoppingCart.csproj.CopyComplete
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\obj\Debug\CmsShoppingCart.dll
+F:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\obj\Debug\CmsShoppingCart.pdb
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\roslyn\csc.exe
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\roslyn\System.Collections.Immutable.dll
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\roslyn\System.Reflection.Metadata.dll
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\roslyn\vbc.exe
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\roslyn\VBCSCompiler.exe
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\roslyn\VBCSCompiler.exe.config
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\CmsShoppingCart.dll.config
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\CmsShoppingCart.dll
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\CmsShoppingCart.pdb
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\Antlr3.Runtime.dll
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\EntityFramework.dll
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\EntityFramework.SqlServer.dll
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\Microsoft.Web.Infrastructure.dll
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\Newtonsoft.Json.dll
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\PagedList.dll
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\PagedList.Mvc.dll
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\System.Web.Helpers.dll
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\System.Web.Mvc.dll
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\System.Web.Optimization.dll
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\System.Web.Razor.dll
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\System.Web.WebPages.Deployment.dll
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\System.Web.WebPages.dll
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\System.Web.WebPages.Razor.dll
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\WebGrease.dll
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\EntityFramework.xml
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\EntityFramework.SqlServer.xml
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\PagedList.xml
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\PagedList.Mvc.xml
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\System.Web.Helpers.xml
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\System.Web.Mvc.xml
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\System.Web.Optimization.xml
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\System.Web.Razor.xml
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\System.Web.WebPages.xml
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\System.Web.WebPages.Deployment.xml
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\System.Web.WebPages.Razor.xml
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\Antlr3.Runtime.pdb
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\bin\Newtonsoft.Json.xml
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\obj\Debug\CmsShoppingCart.csprojAssemblyReference.cache
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\obj\Debug\CmsShoppingCart.csproj.CoreCompileInputs.cache
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\obj\Debug\CmsShoppingCart.csproj.CopyComplete
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\obj\Debug\CmsShoppingCart.dll
+G:\ASPnet-mvc-5-project-cms-and-shopping-cart-with-paypal\02 The Project\070 CmsShoppingCart\CmsShoppingCart\CmsShoppingCart\obj\Debug\CmsShoppingCart.pdb
